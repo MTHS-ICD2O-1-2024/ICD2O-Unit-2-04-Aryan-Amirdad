@@ -1,4 +1,33 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Aryan Amirdad
+* Created on: March 2025
 * This file contains the CSS for index.html
 */
+.mdl-layout__header-row {
+  justify-content: center;
+  padding: 0;
+}
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.mdl-textfield__error {
+  color: rgb(22, 233, 173);
+}
+
+.page-content {
+  color: rgb(210, 117, 117);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.25rem;
+}
+
+body {
+  background-color: rgb(15, 40, 87);
+}
+
+img {
+  float: right;
+  height: 200px;
+}
